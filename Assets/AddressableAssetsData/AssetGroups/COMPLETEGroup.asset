@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: COMPLETEGroup
+  m_EditorClassIdentifier: 
+  m_GroupName: COMPLETEGroup
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 585a187da4355433cb2d2ee3462c5a85
+  m_SerializeEntries:
+  - m_GUID: 2a9550c66be8d4595b239d9559ea732a
+    m_Address: Assets/Scenes/BouncyBall.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_mainAssetType: UnityEditor.SceneAsset, UnityEditor, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+  - m_GUID: 374c375a6a35b499eb4e751906905462
+    m_Address: Assets/Prefabs/Cube.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  - m_GUID: 445f74f86f62544779dcbb917aa07442
+    m_Address: Assets/Sprites/800px-Unity_Technologies_logo.svg.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4693ad8f3aeda1749aa1c3a024ce5fe4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9427e0d8d5bfc40e2ad4c5274245f155, type: 2}
+    - {fileID: 11400000, guid: 284ab9f8591754bd4845e7ef313e515c, type: 2}
