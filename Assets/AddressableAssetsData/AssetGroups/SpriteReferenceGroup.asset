@@ -21,26 +21,26 @@ MonoBehaviour:
     m_Address: line
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   - m_GUID: 90b92e3917db495478199e9a1045eb45
     m_Address: Assets/Scenes/SampleScene.unity
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: UnityEditor.SceneAsset, UnityEditor, Version=0.0.0.0, Culture=neutral,
-      PublicKeyToken=null
   - m_GUID: c1e44e91bbff34e41b5a4373d74e5f41
     m_Address: Atlas
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: UnityEngine.U2D.SpriteAtlas, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
   - m_GUID: d798e7df01851a24a8d23a794faa4550
     m_Address: sheet
     m_ReadOnly: 0
     m_SerializedLabels: []
-    m_mainAssetType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
+  - m_GUID: 480096b65f4b3d94a8ed2f116b0e56be
+    m_Address: Assets/Prefabs/Cylinder.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e6a6869576f6d374e8bafc0cb89b7bfb
+    m_Address: Assets/2D Dev Sprites/Orange/Orange__Combined.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 4693ad8f3aeda1749aa1c3a024ce5fe4, type: 2}
   m_SchemaSet:
